@@ -22,6 +22,6 @@
 [submodule "packages/lakeshore-nomad-plugin"]
 	path = packages/lakeshore-nomad-plugin
 	url = https://github.com/IKZ-Berlin/lakeshore-nomad-plugin
-[submodule "packages/AreaA-data_modeling_and_schemas/transmission/transmission_plugin/uv_vis_nir_transmission_plugin"]
-	path = packages/AreaA-data_modeling_and_schemas/transmission/transmission_plugin/uv_vis_nir_transmission_plugin
-	url = https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git
+[submodule "packages/EPIC_scraper"]
+	path = packages/EPIC_scraper
+	url = https://github.com/PDI-Berlin/EPIC_scraper
