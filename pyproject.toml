@@ -28,6 +28,9 @@ dependencies = [
   "nomad-material-processing",
   "nomad-analysis",
   "nomad-measurements",
+  "nomad-ikz-plugin",
+  "lakeshore-nomad-plugin",
+  "laytec-epitt-plugin",
 ]
 
 [tool.uv.workspace]
@@ -42,6 +45,9 @@ nomad-lab = { workspace = true }
 nomad-material-processing = { workspace = true }
 nomad-analysis = { workspace = true }
 nomad-measurements = { workspace = true }
+nomad-ikz-plugin = { workspace = true }
+lakeshore-nomad-plugin = { workspace = true }
+laytec-epitt-plugin = { workspace = true }
 
 [tool.uv]
 extra-index-url = [

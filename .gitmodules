@@ -16,3 +16,12 @@
 [submodule "packages/nomad-measurements"]
 	path = packages/nomad-measurements
 	url = https://github.com/FAIRmat-NFDI/nomad-measurements
+[submodule "packages/nomad-ikz-plugin"]
+	path = packages/nomad-ikz-plugin
+	url = https://github.com/IKZ-Berlin/nomad-ikz-plugin
+[submodule "packages/laytec_epitt_nomad_plugin"]
+	path = packages/laytec_epitt_nomad_plugin
+	url = https://github.com/IKZ-Berlin/laytec_epitt_nomad_plugin
+[submodule "packages/lakeshore-nomad-plugin"]
+	path = packages/lakeshore-nomad-plugin
+	url = https://github.com/IKZ-Berlin/lakeshore-nomad-plugin
