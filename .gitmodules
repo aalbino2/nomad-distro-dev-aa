@@ -1,9 +1,6 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
-[submodule "nomad-material-processing"]
-	path = nomad-material-processing
-	url = https://github.com/FAIRmat-NFDI/nomad-material-processing
 [submodule "packages/nomad-material-processing"]
 	path = packages/nomad-material-processing
 	url = https://github.com/FAIRmat-NFDI/nomad-material-processing
@@ -25,3 +22,6 @@
 [submodule "packages/lakeshore-nomad-plugin"]
 	path = packages/lakeshore-nomad-plugin
 	url = https://github.com/IKZ-Berlin/lakeshore-nomad-plugin
+[submodule "packages/AreaA-data_modeling_and_schemas/transmission/transmission_plugin/uv_vis_nir_transmission_plugin"]
+	path = packages/AreaA-data_modeling_and_schemas/transmission/transmission_plugin/uv_vis_nir_transmission_plugin
+	url = https://github.com/FAIRmat-NFDI/AreaA-data_modeling_and_schemas.git
