@@ -31,6 +31,9 @@ dependencies = [
   "nomad-ikz-plugin",
   "lakeshore-nomad-plugin",
   "laytec-epitt-plugin",
+  "epic-scraper",
+  "nomad-aa-plugin",
+  "pdi-nomad-plugin",
 ]
 
 [tool.uv.workspace]
@@ -48,6 +51,9 @@ nomad-measurements = { workspace = true }
 nomad-ikz-plugin = { workspace = true }
 lakeshore-nomad-plugin = { workspace = true }
 laytec-epitt-plugin = { workspace = true }
+nomad-aa-plugin = { workspace = true }
+pdi-nomad-plugin = { workspace = true }
+epic-scraper = { workspace = true }
 
 [tool.uv]
 extra-index-url = [

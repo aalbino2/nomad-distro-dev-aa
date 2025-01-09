@@ -25,3 +25,6 @@
 [submodule "packages/EPIC_scraper"]
 	path = packages/EPIC_scraper
 	url = https://github.com/PDI-Berlin/EPIC_scraper
+[submodule "packages/nomad-aa-plugin"]
+	path = packages/nomad-aa-plugin
+	url = https://github.com/aalbino2/nomad-aa-plugin.git
