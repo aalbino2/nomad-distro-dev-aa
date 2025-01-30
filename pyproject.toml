@@ -34,6 +34,7 @@ dependencies = [
   "epic-scraper",
   # "nomad-aa-plugin",
   "pdi-nomad-plugin",
+  "plotly<6.0.0",
 ]
 
 [tool.uv.workspace]
