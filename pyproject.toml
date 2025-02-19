@@ -10,7 +10,7 @@ dependencies = [
   # "perovskite-solar-cell-database",
   # 'nomad-porous-materials; sys_platform != "win32"',
   "nomad-aitoolkit",
-  "nomad-simulations==0.0.1",
+  "nomad-simulations",
   # "pynxtools[convert]==0.5.0",
   "nomad-schema-plugin-run>=1.0.1",
   "nomad-schema-plugin-simulation-workflow>=1.0.1",
@@ -35,6 +35,7 @@ dependencies = [
   # "nomad-aa-plugin",
   "pdi-nomad-plugin",
   "plotly<6.0.0",
+  "nomad-parser-magres",
 ]
 
 [tool.uv.workspace]
@@ -55,6 +56,7 @@ laytec-epitt-plugin = { workspace = true }
 # nomad-aa-plugin = { workspace = true }
 pdi-nomad-plugin = { workspace = true }
 epic-scraper = { workspace = true }
+nomad-parser-magres = { workspace = true }
 
 [tool.uv]
 extra-index-url = [
