@@ -28,3 +28,6 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = git@gitlab.mpcdf.mpg.de:nomad-lab/nomad-FAIR.git
+[submodule "packages/nomad-magres-parser"]
+	path = packages/nomad-magres-parser
+	url = https://github.com/CCP-NC/nomad-parser-magres.git
