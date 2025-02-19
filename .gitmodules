@@ -31,3 +31,6 @@
 [submodule "packages/nomad-simulations"]
 	path = packages/nomad-simulations
 	url = https://github.com/nomad-coe/nomad-simulations.git
+[submodule "packages/nomad-magres-parser"]
+	path = packages/nomad-magres-parser
+	url = https://github.com/nomad-coe/nomad-parser-magres.git
