@@ -28,9 +28,9 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = git@gitlab.mpcdf.mpg.de:nomad-lab/nomad-FAIR.git
-[submodule "packages/nomad-simulations"]
-	path = packages/nomad-simulations
-	url = https://github.com/nomad-coe/nomad-simulations.git
 [submodule "packages/nomad-parser-magres"]
 	path = packages/nomad-parser-magres
 	url = https://github.com/CCP-NC/nomad-parser-magres.git
+[submodule "packages/nomad-simulations"]
+	path = packages/nomad-simulations
+	url = https://github.com/nomad-coe/nomad-simulations.git
